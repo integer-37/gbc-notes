@@ -27,5 +27,3 @@ Markdown website for comp1238, Assignment 1.
 - Friday
   - **12:00pm** 2h - COMP1161 - Math for Computer Technology
   - **2:00pm** 2h - COMP1151 - IT Essentials
- 
-### Midterms
